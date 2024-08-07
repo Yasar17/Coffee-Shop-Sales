@@ -2,7 +2,7 @@
 This repository contains the Coffee Shop Sales dashboard created using Excel. The dashboard provides comprehensive insights into the sales performance of a coffee shop across different dimensions such as monthly total sales, quantities ordered based on hours, category distribution, order sizes, top products, and sales across various store locations.
 
 
-Dashboard Components
+Dashboard Components\n
 **Monthly Total Sales
 
 Displays the total sales for each month from January to June.
